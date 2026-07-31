@@ -86,4 +86,4 @@
 
 2. **webserv** | `C++`, `Network Socket API`, `I/O Multiplexing (kqueue/epoll)`, `Non-blocking I/O`, `State Machine`, `CGI`
 * 대규모 트래픽 처리를 위해 커널 레벨 I/O 멀티플렉싱 인터페이스를 도입한 **Non-blocking 이벤트 드리븐 커스텀 HTTP 웹서버**. HTTP/1.1 프로토콜 스펙 파싱을 위한 결정적 유한 오토마톤(DFA) 기반 상태 머신 Request Parser 설계, 청크드 전송 부하 분산 처리, 자식 프로세스 포크 후 표준 스트림 파이프 연동을 통한 CGI(Common Gateway Interface) 동적 확장 레이어 수동 구현.
-* [https://github.com/jaejehyun42/webserv](https://github.com/jaejehyun42/webserv)
+* https://github.com/jeshin119/webserv.git
