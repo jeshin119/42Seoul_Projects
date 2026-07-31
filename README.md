@@ -19,7 +19,7 @@
 
 4. **born2beroot** | `VirtualBox`, `Debian/Ubuntu OS`, `LVM`, `UFW`, `SSH/Sudoers`, `Password Policy (PAM)`, `Bash Scripting`
 * 가상화 환경(Hypervisor) 기반의 보안 고도화 리눅스 시스템 구축. LVM을 활용한 유동적 디스크 파티셔닝 및 LUKS 암호화 적용, PAM 모듈 기반 비밀번호 정책 강화, UFW 방화벽 및 Sudoers 권한 최소화 설정을 반영함. 시스템 메트릭을 실시간 수집하여 주기적으로 브로드캐스팅하는 Bash 모니터링 스크립트 및 런타임 크론탭(Crontab) 스케줄러 포함.
-
+* [https://github.com/jeshin119/born2beroot](https://github.com/jeshin119/Get_next_line)
 
 
 ---
