@@ -67,7 +67,7 @@
 
 2. **NetPractice** | `Computer Networking`, `IPv4 Addressing`, `Subnetting (VLSM)`, `CIDR`, `Routing Table`, `Gateway`
 * 가변 길이 서브넷 마스크(VLSM) 및 CIDR 알고리즘을 적용한 IP 네트워크 토폴로지 아키텍처 모델링. 다중 인터페이스 환경의 이기종 서브넷 간 패킷 라우팅 처리를 위해 최장 일치(Longest Match) 규칙에 의거한 라우팅 테이블 구성 및 게이트웨이 파이프라인 설계.
-
+* https://github.com/jeshin119/net-practice/tree/main
 
 3. **cub3d** | `C`, `Raycasting Engine`, `DDA Algorithm`, `Trigonometry (Vector/Matrix)`, `Texture Mapping`, `Event Loop`
 * 2D 벡터 맵 구조 위에서 시야각(FOV)에 따른 실시간 광선을 투사하는 3D 레이캐스팅 그래픽스 엔진. DDA(Digital Differential Analysis) 알고리즘 기반 벽면 교차점 스캔, 거리 비례 왜곡 보정 및 텍스처 픽셀 매핑 연산 처리. X11 이벤트를 후킹하여 드랍 없는 프레임을 보장하는 비동기 렌더링 루프 구성.
